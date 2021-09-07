@@ -1,0 +1,41 @@
+.btn-fiber {
+    background-color: #4D13D0;
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    width: auto;
+    padding: 0.7rem;
+}
+
+.btn-fiber-white {
+    background-color: #ffffff;
+    color: #4D13D0;
+    border: none;
+    border-radius: 0.3rem;
+    width: auto;
+    padding: 0.7rem;
+
+}
+a{
+    color: #4D13D0;
+}
+p{
+    color: #4F4F4F;
+}
+footer a {
+    text-decoration: none;
+    color: #4F4F4F;
+
+}
+footer h4 {
+    text-decoration: none;
+}
+footer p {
+    color: #4F4F4F;
+}
+footer ul {
+    padding-left: 0rem;
+}
+footer li {
+    padding-block: 0.2rem;
+}
