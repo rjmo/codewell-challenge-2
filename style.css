@@ -39,3 +39,7 @@ footer ul {
 footer li {
     padding-block: 0.2rem;
 }
+
+.form-control {
+    padding: 0.775rem .75rem !important; 
+}
