@@ -3,7 +3,7 @@
     color: white;
     border: none;
     border-radius: 0.3rem;
-    width: auto;
+    width: 100%;
     padding: 0.7rem;
 }
 
@@ -12,7 +12,7 @@
     color: #4D13D0;
     border: none;
     border-radius: 0.3rem;
-    width: auto;
+    width: 100%;
     padding: 0.7rem;
 
 }
